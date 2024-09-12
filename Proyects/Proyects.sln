@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_Patterns", "Proyects\W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are we alternate", "Are we alternate\Are we alternate.csproj", "{B389964B-4372-4143-8CA8-0DA61F25497E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1_Thick_and_Hearty", "A1_Thick_and_Hearty\A1_Thick_and_Hearty.csproj", "{67E9C5C0-7524-4F81-BA8E-14FF7FE0B5A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B389964B-4372-4143-8CA8-0DA61F25497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B389964B-4372-4143-8CA8-0DA61F25497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B389964B-4372-4143-8CA8-0DA61F25497E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E9C5C0-7524-4F81-BA8E-14FF7FE0B5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E9C5C0-7524-4F81-BA8E-14FF7FE0B5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E9C5C0-7524-4F81-BA8E-14FF7FE0B5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E9C5C0-7524-4F81-BA8E-14FF7FE0B5A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
