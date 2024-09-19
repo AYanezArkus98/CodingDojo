@@ -1,0 +1,7 @@
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\bin\Debug\A1_Thick_and_Hearty.exe.config
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\bin\Debug\A1_Thick_and_Hearty.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\bin\Debug\A1_Thick_and_Hearty.pdb
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\obj\Debug\A1_Thick_and_Hearty.csproj.AssemblyReference.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\obj\Debug\A1_Thick_and_Hearty.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\obj\Debug\A1_Thick_and_Hearty.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\A1_Thick_and_Hearty\obj\Debug\A1_Thick_and_Hearty.pdb
