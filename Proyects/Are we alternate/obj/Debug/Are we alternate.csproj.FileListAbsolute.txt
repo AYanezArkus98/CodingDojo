@@ -1,7 +1,0 @@
-C:\Users\Mind\source\repos\Proyects\Are we alternate\bin\Debug\Are we alternate.exe.config
-C:\Users\Mind\source\repos\Proyects\Are we alternate\bin\Debug\Are we alternate.exe
-C:\Users\Mind\source\repos\Proyects\Are we alternate\bin\Debug\Are we alternate.pdb
-C:\Users\Mind\source\repos\Proyects\Are we alternate\obj\Debug\Are we alternate.csproj.AssemblyReference.cache
-C:\Users\Mind\source\repos\Proyects\Are we alternate\obj\Debug\Are we alternate.csproj.CoreCompileInputs.cache
-C:\Users\Mind\source\repos\Proyects\Are we alternate\obj\Debug\Are we alternate.exe
-C:\Users\Mind\source\repos\Proyects\Are we alternate\obj\Debug\Are we alternate.pdb

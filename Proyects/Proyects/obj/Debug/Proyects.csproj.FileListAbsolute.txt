@@ -1,7 +1,0 @@
-C:\Users\Mind\source\repos\Proyects\Proyects\bin\Debug\Proyects.exe.config
-C:\Users\Mind\source\repos\Proyects\Proyects\bin\Debug\Proyects.exe
-C:\Users\Mind\source\repos\Proyects\Proyects\bin\Debug\Proyects.pdb
-C:\Users\Mind\source\repos\Proyects\Proyects\obj\Debug\Proyects.csproj.AssemblyReference.cache
-C:\Users\Mind\source\repos\Proyects\Proyects\obj\Debug\Proyects.csproj.CoreCompileInputs.cache
-C:\Users\Mind\source\repos\Proyects\Proyects\obj\Debug\Proyects.exe
-C:\Users\Mind\source\repos\Proyects\Proyects\obj\Debug\Proyects.pdb
