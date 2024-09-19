@@ -1,0 +1,7 @@
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\bin\Debug\Highest_Scoring_Word.exe.config
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\bin\Debug\Highest_Scoring_Word.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\bin\Debug\Highest_Scoring_Word.pdb
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\obj\Debug\Highest_Scoring_Word.csproj.AssemblyReference.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\obj\Debug\Highest_Scoring_Word.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\obj\Debug\Highest_Scoring_Word.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Highest_Scoring_Word\obj\Debug\Highest_Scoring_Word.pdb
