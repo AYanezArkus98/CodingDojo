@@ -11,19 +11,19 @@ namespace Highest_Scoring_Word
 
         public static int HighestScore(string word)
         {
-            char[] abecedario = new char[] {
+            char[] alphabet = new char[] {
                 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
             };
             int totalScore = 0;
 
-            foreach (char letra in word)
+            foreach (char letter in word)
             {
-                char letraMinuscula = char.ToLower(letra);
+                char lowercase = char.ToLower(letter);
 
-                int posicion = Array.IndexOf(abecedario, letraMinuscula) + 1;
+                int position = Array.IndexOf(alphabet, lowercase) + 1;
 
-                totalScore += posicion;
+                totalScore += position;
             }
 
             return totalScore;
