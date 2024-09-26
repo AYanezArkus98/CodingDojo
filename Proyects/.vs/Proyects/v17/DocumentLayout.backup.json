@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mind\\Documents\\GitHub\\CodingDojo\\Proyects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0286D981-33A3-45F7-8C93-B33EDDA0ED31}|Highest_Scoring_Word\\Highest_Scoring_Word.csproj|c:\\users\\mind\\documents\\github\\codingdojo\\proyects\\highest_scoring_word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0286D981-33A3-45F7-8C93-B33EDDA0ED31}|Highest_Scoring_Word\\Highest_Scoring_Word.csproj|solutionrelative:highest_scoring_word\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}|CatYears_DogYears\\CatYears_DogYears.csproj|c:\\users\\mind\\documents\\github\\codingdojo\\proyects\\catyears_dogyears\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}|CatYears_DogYears\\CatYears_DogYears.csproj|solutionrelative:catyears_dogyears\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mind\\Documents\\GitHub\\CodingDojo\\Proyects\\Highest_Scoring_Word\\Program.cs",
-              "RelativeDocumentMoniker": "Highest_Scoring_Word\\Program.cs",
-              "ToolTip": "C:\\Users\\Mind\\Documents\\GitHub\\CodingDojo\\Proyects\\Highest_Scoring_Word\\Program.cs",
-              "RelativeToolTip": "Highest_Scoring_Word\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mind\\Documents\\GitHub\\CodingDojo\\Proyects\\CatYears_DogYears\\Program.cs",
+              "RelativeDocumentMoniker": "CatYears_DogYears\\Program.cs",
+              "ToolTip": "C:\\Users\\Mind\\Documents\\GitHub\\CodingDojo\\Proyects\\CatYears_DogYears\\Program.cs*",
+              "RelativeToolTip": "CatYears_DogYears\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwC0AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T21:42:56.629Z",
+              "WhenOpened": "2024-09-24T19:27:27.517Z",
               "EditorCaption": ""
             }
           ]

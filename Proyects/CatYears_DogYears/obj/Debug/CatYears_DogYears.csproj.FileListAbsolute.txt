@@ -1,0 +1,7 @@
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\bin\Debug\CatYears_DogYears.exe.config
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\bin\Debug\CatYears_DogYears.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\bin\Debug\CatYears_DogYears.pdb
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\obj\Debug\CatYears_DogYears.csproj.AssemblyReference.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\obj\Debug\CatYears_DogYears.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\obj\Debug\CatYears_DogYears.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\CatYears_DogYears\obj\Debug\CatYears_DogYears.pdb
