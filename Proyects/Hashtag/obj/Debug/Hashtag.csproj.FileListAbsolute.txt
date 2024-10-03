@@ -1,0 +1,7 @@
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\bin\Debug\Hashtag.exe.config
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\bin\Debug\Hashtag.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\bin\Debug\Hashtag.pdb
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\obj\Debug\Hashtag.csproj.AssemblyReference.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\obj\Debug\Hashtag.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\obj\Debug\Hashtag.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\Hashtag\obj\Debug\Hashtag.pdb

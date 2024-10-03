@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highest_Scoring_Word", "Hig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatYears_DogYears", "CatYears_DogYears\CatYears_DogYears.csproj", "{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtag", "Hashtag\Hashtag.csproj", "{224E2676-17DF-4EAA-9E96-B1C7CCF2FAB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C57425-6E3E-4263-9CD3-1CE7967DFE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224E2676-17DF-4EAA-9E96-B1C7CCF2FAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224E2676-17DF-4EAA-9E96-B1C7CCF2FAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224E2676-17DF-4EAA-9E96-B1C7CCF2FAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224E2676-17DF-4EAA-9E96-B1C7CCF2FAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
