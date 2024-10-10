@@ -1,0 +1,7 @@
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\bin\Debug\ConvertRomanToArabic.exe.config
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\bin\Debug\ConvertRomanToArabic.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\bin\Debug\ConvertRomanToArabic.pdb
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\obj\Debug\ConvertRomanToArabic.csproj.AssemblyReference.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\obj\Debug\ConvertRomanToArabic.csproj.CoreCompileInputs.cache
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\obj\Debug\ConvertRomanToArabic.exe
+C:\Users\Mind\Documents\GitHub\CodingDojo\Proyects\ConvertRomanToArabic\obj\Debug\ConvertRomanToArabic.pdb
